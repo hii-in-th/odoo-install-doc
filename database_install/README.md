@@ -26,3 +26,10 @@ wget https://raw.githubusercontent.com/hii-in-th/odoo-install-doc/main/database_
 ```sh
 sh database_deploy.sh
 ```
+![รูปภาพการทำคำสั่ง sh database_deploy.sh](image/3.png)
+
+4. ตรวจดูสถานะการทำงานด้วยคำสั่ง
+```sh
+docker service logs nirun_database
+```
+![รูปภาพการทำคำสั่ง docker service logs nirun_database](image/4.png)
