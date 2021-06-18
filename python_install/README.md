@@ -47,3 +47,9 @@ sudo make install
 python3.6 --version
 ```
 ![รูปภาพการทำคำสั่ง](image/6.png)
+
+7. ติดตั้งส่วนที่จำเป็นเสริมด้วยคำสั่ง
+```sh
+sudo apt install python3-pip python3-venv python3-wheel python3-setuptools
+```
+![รูปภาพการทำคำสั่ง](image/7.png)
