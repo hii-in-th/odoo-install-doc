@@ -4,7 +4,7 @@
 เอกสารอ้างอิงการติดตั้งด้วย docker https://hub.docker.com/_/postgres
 
 ---
-# เริ่มการติดตั้ง Database
+## เริ่มการติดตั้ง Database
 1. สร้างส่วนจัดเก็บไฟล์ Database โดยใช้คำสั่ง
 ```sh
 sudo mkdir -p /data/db/nirun2

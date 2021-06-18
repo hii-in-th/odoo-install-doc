@@ -2,6 +2,7 @@
 การติดตั้งในที่นี้ได้เลือก Odoo13 โดยการติดตั้งจะใช้วิธีการ ติดตั้งโดยตรงผ่าน Source code official ของ odoo จำเป็นต้องมีความความรู้เรื่องระบบ Linux ค่อนข้างดี เพราะต้องตั้งค่า library ในข้อที่ 6 ให้เหมาะสมกับระบบ หากไม่ตั้งค่าส่วนนี้ จะติดตั้งไม่ผ่าน
 
 ---
+## เริ่มการติดตั้ง Odoo
 1. download wkhtmltopdf โดยคำสั่ง
   ```sh
   wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb

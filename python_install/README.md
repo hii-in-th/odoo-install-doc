@@ -3,8 +3,9 @@
 หากผู้ใช้สะดวกติดตั้งผ่าน apt หรือ yum ก็แล้วแต่สะดวก
 
 ---
-# เริ่มการติดตั้ง Python
+## เริ่มการติดตั้ง Python
 จำเป็นต้องมีประสบการณ์ทางด้าน Linux command มาบ้าง เพราะตั้งแต่ทำมา แต่ละเครื่องเจอปัญหาไม่เหมือนกัน ส่วนใหญ่จะเจอปัญหาไม่พบ library ใน repo ของ zone ประเทศที่เชื่อต่ออยู่ ต้องไปโหลด .deb จาก zone อื่นมาลงด้วยมือก็มีบ้าง และมีปัญหาเกี่ยวกับการ Build ที่ต้องแก้หน้างาน  
+
 1. ติดตั้ง library ที่จำเป็นสำหรับการ Build ด้วยคำสั่ง
   ```sh
   sudo apt-get install -y git build-essential wget checkinstall libffi-dev python-dev libxslt-dev libzip-dev libldap2-dev libsasl2-dev node-less
