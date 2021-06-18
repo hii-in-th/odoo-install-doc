@@ -21,6 +21,7 @@ wget https://raw.githubusercontent.com/hii-in-th/odoo-install-doc/main/database_
 - user `nirun`
 - password `WKztnwB77XAE84YaKjJRBbvnXav334`
 - database `nirun`
+- database port `21320`
 
 3. เริ่มการทำงานของ Database ด้วยคำสั่ง
 ```sh
