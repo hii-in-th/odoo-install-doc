@@ -1,32 +1,5 @@
 # Guide คู่มือการติดตั้ง Odoo13
 ## สถานะ กำลังรวบรวมข้อมูลเพื่อจัดทำเอกสาร
-
-Database  
-- setup database
-- ติดตั้ง docker
-- tuning database web https://pgtune.leopard.in.ua/#/
-- การย้าย database
-
-Odoo
-- build and install python version
-- install odoo from official
-- install nginx proxy
-- config dns to server
-- install let's encrypt
-- config let's encrypt
-- config nginx proxy
-
-Note:
-```shell
-install python
-sudo apt-get install libssl-dev openssl
-wget https://www.python.org/ftp/python/3.5.0/Python-3.5.0.tgz
-tar xzvf Python-3.5.0.tgz
-cd Python-3.5.0
-./configure
-make
-sudo make install
-```
 ---  
 # เกริ่นนำ
 ![รูปภาพ Intro](image/Intro.png)  
@@ -46,6 +19,3 @@ sudo make install
   2.1 ขั้นแรกติดตั้ง Python แบบ Build เอง  
   2.2 ขั้นสองติดตั้ง Odoo  
 3. ติดตั้ง Web Proxy  
-  3.1 ติดตั้ง Nginx  
-  3.2 การ Setup ssl ด้วย Note: (cloud flare proxy หรือ letsencrypt ดี)  
-  3.3 Config Nginx สำหรับ Odoo Note: (https://www.odoo.com/documentation/14.0/administration/deployment/deploy.html#id7)
