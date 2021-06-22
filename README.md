@@ -27,9 +27,9 @@
 1. [กระบวนการสำรองข้อมูล](backup)
   - [การ Backup Odoo App](backup)
   - [การ Bakcup Odoo Database](backup)
-2. กระบวนการกู้คืนข้อมูล
-  - การ Restore Database
-  - การ Restore APP
+2. [กระบวนการกู้คืนข้อมูล](restore)
+  - [การ Restore Database](restore)
+  - [การ Restore APP](restore)
 3. กระบวนการย้ายระบบ
   - การย้าย Odoo App
   - การย้าย Odoo Database
