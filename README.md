@@ -25,8 +25,8 @@
 วิธีการย้ายระบบ หรือ จะเรียกว่าการ Clone ระบบ หรือ อาจใช้ในการบวนการ Backup ข้อมูลระบบ  
 การยย้ายระบบ ไปยังเครื่องใหม่ ในเครื่องใหม่นั้นต้องทำการติดตั้งระบบ Odoo ให้เสร็จทั้งหมดก่อน  แล้วทำตามข้อปฏิบัติดังนี้
 1. [ข้อควรปฏิบัติก่อน การย้ายข้อมูลไปยังเครื่องใหม่](backup)
-  - [การ Backup Odoo App](backup#การสำรองข้อมูล-odoo-app)
-  - [การ Bakcup Odoo Database](backup#การสำรองข้อมูล-odoo-database)
+  - [การ Backup Odoo App](backup#การสำรองข้อมูล-Odoo-App)
+  - [การ Bakcup Odoo Database](backup#การสำรองข้อมูล-Odoo-Database)
 2. กระบวนการ Restore
   - การ Restore Database
   - การ Restore APP
