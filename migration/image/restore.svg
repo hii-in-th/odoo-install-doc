@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="301.62497mm"
+   height="306.91669mm"
+   viewBox="0 0 301.62497 306.91668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="restore.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.45237594"
+     inkscape:cx="455.37346"
+     inkscape:cy="653.21776"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path35278" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path35272" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     transform="translate(-183.0383,20.108334)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect37473"
+       width="301.62497"
+       height="306.91669"
+       x="183.0383"
+       y="-20.108334"
+       rx="27.130638"
+       ry="27.130638" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-146.31954,56.225189)"
+     sodipodi:insensitive="true">
+    <g
+       id="g35232"
+       transform="translate(373.28939,7.9375)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect35120-4"
+         width="102.12917"
+         height="37.041664"
+         x="-39.952087"
+         y="12.170829"
+         rx="2.5100756"
+         ry="2.7889731" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-11.283996"
+         y="33.278057"
+         id="text1464"><tspan
+           sodipodi:role="line"
+           id="tspan1462"
+           style="stroke-width:0.264583"
+           x="-11.283996"
+           y="33.278057">Odoo App</tspan></text>
+    </g>
+    <g
+       id="g35205"
+       transform="translate(324.87064,-21.900372)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect35120"
+         width="102.12917"
+         height="37.041664"
+         x="8.4666681"
+         y="193.14584"
+         rx="2.5100756"
+         ry="2.7889731" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="25.468843"
+         y="215.32277"
+         id="text3118"><tspan
+           sodipodi:role="line"
+           id="tspan3116"
+           style="stroke-width:0.264583"
+           x="25.468843"
+           y="215.32277">Odoo Database</tspan></text>
+    </g>
+    <g
+       id="g21132"
+       transform="translate(33.018232,22.530416)">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="153.42657"
+         y="84.084396"
+         id="text4722"><tspan
+           sodipodi:role="line"
+           id="tspan4720"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="153.42657"
+           y="84.084396">Odoo App</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="153.42657"
+           y="97.313522"
+           id="tspan17152">Backup</tspan></text>
+      <g
+         id="g12956"
+         transform="matrix(0.69560679,0,0,0.69560679,28.409294,-15.926238)">
+        <path
+           id="rect7632"
+           style="fill:#ffffff;stroke:#000000;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+           d="m 723.01758,307.79883 h -60.51172 c -5.25574,0 -9.48828,4.70128 -9.48828,10.54101 v 138.61524 c 0,5.83973 4.23254,10.54101 9.48828,10.54101 h 98.03125 c 5.25574,0 9.48633,-4.70128 9.48633,-10.54101 V 354.49609 h -37.51758 c -0.16424,0 -0.32809,-0.005 -0.49024,-0.0137 -0.16214,-0.009 -0.32257,-0.0231 -0.48242,-0.041 -0.15985,-0.0179 -0.3192,-0.0398 -0.47656,-0.0664 -0.15736,-0.0266 -0.31408,-0.0568 -0.46875,-0.0918 -0.30934,-0.07 -0.61273,-0.1574 -0.91016,-0.25976 -0.29742,-0.10236 -0.5891,-0.22052 -0.87304,-0.35352 -0.28394,-0.133 -0.55924,-0.28146 -0.82813,-0.44336 -0.26889,-0.1619 -0.53093,-0.33633 -0.7832,-0.52539 -0.25227,-0.18906 -0.49638,-0.39294 -0.73047,-0.60742 -0.23409,-0.21448 -0.45753,-0.43957 -0.67187,-0.67773 -0.21435,-0.23817 -0.4183,-0.48795 -0.61133,-0.74805 -0.19303,-0.2601 -0.37477,-0.5322 -0.54492,-0.8125 -0.17016,-0.28031 -0.32891,-0.57037 -0.47461,-0.86914 -0.14571,-0.29877 -0.27874,-0.60639 -0.39844,-0.92188 -0.1197,-0.31549 -0.22624,-0.63827 -0.31836,-0.96875 -0.0921,-0.33047 -0.16944,-0.668 -0.23242,-1.01172 -0.063,-0.34371 -0.11226,-0.6936 -0.14453,-1.04882 -0.0323,-0.35522 -0.0488,-0.7151 -0.0488,-1.08008 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path11830"
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+           d="m 191.2984,81.438439 c 0.002,3.23672 -0.004,6.473537 0.003,9.710195 0.0126,1.397458 1.2164,2.76006 2.67005,2.645125 3.25455,0 6.5091,0 9.76365,0 -4.14565,-4.118438 -8.29133,-8.236887 -12.43696,-12.35532 z"
+           sodipodi:nodetypes="csssssssssssssssssssccc" />
+        <g
+           id="g7898"
+           transform="translate(6.5079681)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             id="rect7550"
+             width="30.919777"
+             height="12.722185"
+             x="150.9729"
+             y="97.249771"
+             rx="6.4146643"
+             ry="0.27889994" />
+          <text
+             xml:space="preserve"
+             style="font-size:7.11086px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="155.16409"
+             y="105.34865"
+             id="text7446"><tspan
+               sodipodi:role="line"
+               id="tspan7444"
+               style="stroke-width:0.264583"
+               x="155.16409"
+               y="105.34865">Backup</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g21144"
+       transform="translate(12.61064,15.356848)">
+      <g
+         id="g15540"
+         transform="matrix(0.69560679,0,0,0.69560679,48.240693,87.720885)">
+        <path
+           id="path15528"
+           style="fill:#ffffff;stroke:#000000;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+           d="m 723.01758,307.79883 h -60.51172 c -5.25574,0 -9.48828,4.70128 -9.48828,10.54101 v 138.61524 c 0,5.83973 4.23254,10.54101 9.48828,10.54101 h 98.03125 c 5.25574,0 9.48633,-4.70128 9.48633,-10.54101 V 354.49609 h -37.51758 c -0.16424,0 -0.32809,-0.005 -0.49024,-0.0137 -0.16214,-0.009 -0.32257,-0.0231 -0.48242,-0.041 -0.15985,-0.0179 -0.3192,-0.0398 -0.47656,-0.0664 -0.15736,-0.0266 -0.31408,-0.0568 -0.46875,-0.0918 -0.30934,-0.07 -0.61273,-0.1574 -0.91016,-0.25976 -0.29742,-0.10236 -0.5891,-0.22052 -0.87304,-0.35352 -0.28394,-0.133 -0.55924,-0.28146 -0.82813,-0.44336 -0.26889,-0.1619 -0.53093,-0.33633 -0.7832,-0.52539 -0.25227,-0.18906 -0.49638,-0.39294 -0.73047,-0.60742 -0.23409,-0.21448 -0.45753,-0.43957 -0.67187,-0.67773 -0.21435,-0.23817 -0.4183,-0.48795 -0.61133,-0.74805 -0.19303,-0.2601 -0.37477,-0.5322 -0.54492,-0.8125 -0.17016,-0.28031 -0.32891,-0.57037 -0.47461,-0.86914 -0.14571,-0.29877 -0.27874,-0.60639 -0.39844,-0.92188 -0.1197,-0.31549 -0.22624,-0.63827 -0.31836,-0.96875 -0.0921,-0.33047 -0.16944,-0.668 -0.23242,-1.01172 -0.063,-0.34371 -0.11226,-0.6936 -0.14453,-1.04882 -0.0323,-0.35522 -0.0488,-0.7151 -0.0488,-1.08008 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path15530"
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+           d="m 191.2984,81.438439 c 0.002,3.23672 -0.004,6.473537 0.003,9.710195 0.0126,1.397458 1.2164,2.76006 2.67005,2.645125 3.25455,0 6.5091,0 9.76365,0 -4.14565,-4.118438 -8.29133,-8.236887 -12.43696,-12.35532 z"
+           sodipodi:nodetypes="csssssssssssssssssssccc" />
+        <g
+           id="g15538"
+           transform="translate(6.5079681)">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             id="rect15532"
+             width="30.919777"
+             height="12.722185"
+             x="150.9729"
+             y="97.249771"
+             rx="6.4146643"
+             ry="0.27889994" />
+          <text
+             xml:space="preserve"
+             style="font-size:7.11086px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="155.16409"
+             y="105.34865"
+             id="text15536"><tspan
+               sodipodi:role="line"
+               id="tspan15534"
+               style="stroke-width:0.264583"
+               x="155.16409"
+               y="105.34865">Backup</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="173.77991"
+         y="189.6933"
+         id="text19126"><tspan
+           sodipodi:role="line"
+           id="tspan19122"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="173.77991"
+           y="189.6933">Odoo Database</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="173.77991"
+           y="202.92242"
+           id="tspan19124">Backup</tspan></text>
+    </g>
+    <g
+       id="g32873"
+       transform="translate(72.495834,-19.84375)">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="113.39862"
+         y="26.461086"
+         id="text30291"><tspan
+           sodipodi:role="line"
+           id="tspan30287"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="113.39862"
+           y="26.461086">odoo13.conf</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="113.39862"
+           y="39.690212"
+           id="tspan30289">Backup</tspan></text>
+      <g
+         id="g30407"
+         transform="translate(-6.0854167,1.3229167)">
+        <path
+           id="path30293"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.39121;stroke-linecap:round;stroke-linejoin:round"
+           d="M 122.18914,-16.900417 H 111.0522 c -0.9673,0 -1.74628,0.865252 -1.74628,1.94003 v 25.511575 c 0,1.074779 0.77898,1.940031 1.74628,1.940031 h 18.04226 c 0.96729,0 1.74592,-0.865252 1.74592,-1.940031 V -8.3059748 h -6.90496 c -0.0302,0 -0.0604,-9.202e-4 -0.0902,-0.00252 -0.0298,-0.00166 -0.0594,-0.00425 -0.0888,-0.00755 -0.0294,-0.00329 -0.0587,-0.00732 -0.0877,-0.012221 -0.029,-0.0049 -0.0578,-0.010454 -0.0863,-0.016895 -0.0569,-0.012883 -0.11277,-0.028969 -0.16751,-0.047808 -0.0547,-0.018839 -0.10842,-0.040586 -0.16068,-0.065064 -0.0523,-0.024478 -0.10292,-0.051802 -0.15241,-0.081599 -0.0495,-0.029797 -0.0977,-0.0619 -0.14415,-0.096696 -0.0464,-0.034796 -0.0913,-0.072319 -0.13444,-0.1117932 -0.0431,-0.039474 -0.0842,-0.080901 -0.12365,-0.1247335 -0.0395,-0.043834 -0.077,-0.089805 -0.11251,-0.1376756 -0.0355,-0.04787 -0.069,-0.097949 -0.1003,-0.1495373 -0.0313,-0.05159 -0.0605,-0.1049743 -0.0874,-0.1599617 -0.0268,-0.054987 -0.0513,-0.1116036 -0.0733,-0.1696683 -0.022,-0.058065 -0.0416,-0.117471 -0.0586,-0.1782945 -0.0169,-0.060822 -0.0312,-0.1229427 -0.0428,-0.186203 -0.0116,-0.063258 -0.0207,-0.1276543 -0.0266,-0.1930311 -0.006,-0.06538 -0.009,-0.131611 -0.009,-0.198784 z" />
+        <path
+           id="path30295"
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1.39121;stroke-linecap:round;stroke-linejoin:round"
+           d="m 122.18914,-16.900417 c 0.001,2.251485 -0.003,4.503036 0.002,6.754478 0.009,0.972081 0.84613,1.9199162 1.8573,1.8399666 2.26389,0 4.52777,0 6.79166,0 -2.88374,-2.8648136 -5.7675,-5.7296346 -8.65123,-8.5944446 z"
+           sodipodi:nodetypes="csssssssssssssssssssccc" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 234.56177,-7.9099543 309.45292,31.527536"
+       id="path35267"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 234.0883,95.055452 309.81496,63.277043"
+       id="path35724"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 241.66389,186.79584 64.02921,1.05834"
+       id="path35825"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

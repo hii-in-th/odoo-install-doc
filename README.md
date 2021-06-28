@@ -30,6 +30,4 @@
 2. [กระบวนการกู้คืนข้อมูล](restore)
   - [การ Restore Database](restore)
   - [การ Restore APP](restore)
-3. กระบวนการย้ายระบบ
-  - การย้าย Odoo App
-  - การย้าย Odoo Database
+3. Guideline การย้ายระบบ
