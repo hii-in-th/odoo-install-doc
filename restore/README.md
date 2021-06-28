@@ -48,6 +48,12 @@ sudo systemctl status odoo13.service
   sudo rsync -av --delete odoo13/ /opt/odoo13/
   ```
 
+4. ย้ายไฟล์ `odoo13.conf`  
+  ตรงจุดนี้แล้วแต่ว่า เก็บไฟล์ไว้ที่ไหนแล้วให้ทำการคัดลอกไฟล์ จากที่ทำการสำรองข้อมูลไว้ ไปใส่ในส่วนการโหลด การตั้งค่า odoo `/etc/odoo13.conf` ด้วยคำสั่ง
+  ```sh
+  sudo cp odoo13.conf /etc/odoo13.conf
+  ```
+
 ## การกู้คืนข้อมูล Odoo Database
 1. ตรวจสอบว่าบริการ Odoo Database ได้หยุดทำงานแล้วด้วยคำสั่ง
   ```sh
