@@ -30,4 +30,4 @@
 2. [กระบวนการกู้คืนข้อมูล](restore)
   - [การ Restore Database](restore)
   - [การ Restore APP](restore)
-3. Guideline การย้ายระบบ
+3. [Guideline การย้ายระบบ](migration)
